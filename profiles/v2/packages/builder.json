@@ -1,0 +1,81 @@
+{
+  "__version__": "1.3.7",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "scenes": [
+      {
+        "url": "db://assets/start.scene",
+        "uuid": "b9b38d7a-84d6-459b-b75f-879aa77984dd"
+      }
+    ],
+    "buildPath": "project://build",
+    "outputName": "wechatgame",
+    "mainBundleCompressionType": "subpackage",
+    "platform": "wechatgame",
+    "mainBundleIsRemote": false,
+    "startScene": "6b12f5e5-3327-4a1e-835d-4018d44a7c0b",
+    "name": "太空大逃脱"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1732587457252": {
+        "type": "build",
+        "id": "1732587457252",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "2024-11-26 10:28:07 build success in 9 s!",
+        "options": {
+          "name": "太空大逃脱",
+          "server": "",
+          "platform": "wechatgame",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "subpackage",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "6b12f5e5-3327-4a1e-835d-4018d44a7c0b",
+          "outputName": "wechatgame",
+          "taskName": "wechatgame",
+          "scenes": [
+            {
+              "url": "db://assets/scence/loading.scene",
+              "uuid": "6b12f5e5-3327-4a1e-835d-4018d44a7c0b"
+            },
+            {
+              "url": "db://assets/scence/main.scene",
+              "uuid": "7181c96a-c783-441d-abfe-7874efa16ee4"
+            },
+            {
+              "url": "db://assets/scence/start.scene",
+              "uuid": "b9b38d7a-84d6-459b-b75f-879aa77984dd"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/wechatgame2024-11-26 10-17.log"
+        },
+        "time": "2024-11-26 10:27:58",
+        "dirty": false
+      }
+    }
+  }
+}

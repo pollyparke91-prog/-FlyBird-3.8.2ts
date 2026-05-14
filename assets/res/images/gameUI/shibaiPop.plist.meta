@@ -1,0 +1,155 @@
+{
+  "ver": "1.0.8",
+  "importer": "sprite-atlas",
+  "imported": true,
+  "uuid": "b06573c2-3168-4a3d-a46a-762ba224fad8",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {
+    "0adde": {
+      "importer": "sprite-frame",
+      "uuid": "b06573c2-3168-4a3d-a46a-762ba224fad8@0adde",
+      "displayName": "",
+      "id": "0adde",
+      "name": "cxkaishi_btn@2x",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 1,
+        "width": 319,
+        "height": 108,
+        "rawWidth": 319,
+        "rawHeight": 108,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8f6686c4-367b-4cea-a7e5-eb7d68647f02@6c48a",
+        "atlasUuid": "b06573c2-3168-4a3d-a46a-762ba224fad8"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb133": {
+      "importer": "sprite-frame",
+      "uuid": "b06573c2-3168-4a3d-a46a-762ba224fad8@cb133",
+      "displayName": "",
+      "id": "cb133",
+      "name": "fhStart_btn@2x",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 111,
+        "width": 319,
+        "height": 108,
+        "rawWidth": 319,
+        "rawHeight": 108,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8f6686c4-367b-4cea-a7e5-eb7d68647f02@6c48a",
+        "atlasUuid": "b06573c2-3168-4a3d-a46a-762ba224fad8"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0602a": {
+      "importer": "sprite-frame",
+      "uuid": "b06573c2-3168-4a3d-a46a-762ba224fad8@0602a",
+      "displayName": "",
+      "id": "0602a",
+      "name": "game_over@2x",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 1,
+        "trimY": 221,
+        "width": 464,
+        "height": 568,
+        "rawWidth": 464,
+        "rawHeight": 568,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [],
+          "indexes": [],
+          "uv": [],
+          "nuv": [],
+          "minPos": [],
+          "maxPos": []
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "8f6686c4-367b-4cea-a7e5-eb7d68647f02@6c48a",
+        "atlasUuid": "b06573c2-3168-4a3d-a46a-762ba224fad8"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "atlasTextureName": "shibaiPop.png",
+    "format": 3,
+    "uuid": "b06573c2-3168-4a3d-a46a-762ba224fad8",
+    "textureUuid": "8f6686c4-367b-4cea-a7e5-eb7d68647f02@6c48a"
+  }
+}

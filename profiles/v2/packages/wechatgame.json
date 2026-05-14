@@ -1,0 +1,233 @@
+{
+  "__version__": "1.0.4",
+  "builder": {
+    "common": {
+      "buildPath": "project://build",
+      "outputName": "wechatgame",
+      "mainBundleCompressionType": "subpackage",
+      "platform": "wechatgame",
+      "scenes": [
+        {
+          "url": "db://assets/start.scene",
+          "uuid": "b9b38d7a-84d6-459b-b75f-879aa77984dd"
+        }
+      ],
+      "mainBundleIsRemote": false,
+      "startScene": "6b12f5e5-3327-4a1e-835d-4018d44a7c0b",
+      "name": "太空大逃脱"
+    },
+    "taskOptionsMap": {
+      "1718720791202": {
+        "orientation": "portrait",
+        "appid": "wx6ac3f5090a6b99c5",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": false,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4"
+      },
+      "1718721198320": {
+        "orientation": "portrait",
+        "appid": "wx6ac3f5090a6b99c5",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": false,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1718721487310": {
+        "orientation": "portrait",
+        "appid": "wx6ac3f5090a6b99c5",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": false,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1718721934276": {
+        "orientation": "portrait",
+        "appid": "wx6ac3f5090a6b99c5",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": false,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1718722038519": {
+        "orientation": "portrait",
+        "appid": "wx6ac3f5090a6b99c5",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": false,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1718762115361": {
+        "orientation": "portrait",
+        "appid": "wx6ac3f5090a6b99c5",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": true,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1718762381007": {
+        "orientation": "portrait",
+        "appid": "wx6ac3f5090a6b99c5",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": true,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1718762917253": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": true,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1718763951703": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": true,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1719223185551": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": true,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1719224473580": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": true,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1719224828122": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": true,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1719225190988": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": true,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1719231252683": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": true,
+        "highPerformanceMode": false,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1722586121373": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": "",
+        "separateEngine": false,
+        "highPerformanceMode": true,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1722759356052": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": true,
+        "separateEngine": false,
+        "highPerformanceMode": true,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1722765883509": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": true,
+        "separateEngine": false,
+        "highPerformanceMode": true,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      },
+      "1732587457252": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": true,
+        "separateEngine": false,
+        "highPerformanceMode": true,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      }
+    },
+    "__version__": "1.3.7",
+    "options": {
+      "wechatgame": {
+        "orientation": "portrait",
+        "appid": "wxcd1ef605e72cd74d",
+        "buildOpenDataContextTemplate": true,
+        "separateEngine": false,
+        "highPerformanceMode": true,
+        "enabelWebGL2": "off",
+        "wasm": "wasm",
+        "__version__": "1.0.4",
+        "wasmSubpackage": true
+      }
+    }
+  }
+}

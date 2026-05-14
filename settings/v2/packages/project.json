@@ -1,0 +1,38 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280,
+      "fitHeight": false,
+      "fitWidth": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "Player"
+      },
+      {
+        "index": 2,
+        "name": "enemy"
+      },
+      {
+        "index": 3,
+        "name": "Gold"
+      },
+      {
+        "index": 4,
+        "name": "Fenshu"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 28,
+      "2": 2,
+      "3": 2,
+      "4": 2
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "__version__": "3.0.7",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "edd10f",
+        "services": []
+      },
+      "wechatgame": {
+        "configID": "edd10f",
+        "services": []
+      }
+    },
+    "taskOptionsMap": {
+      "1718720791202": {
+        "configID": "edd10f",
+        "services": []
+      },
+      "1718721198320": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1718721487310": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1718721934276": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1718722038519": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1718762115361": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1718762381007": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1718762917253": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1718763951703": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1719223185551": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1719224473580": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1719224828122": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1719225190988": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1719231252683": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1722586121373": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1722759356052": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1722765883509": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1732544065727": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      },
+      "1732587457252": {
+        "configID": "edd10f",
+        "services": [],
+        "__version__": "3.0.7"
+      }
+    },
+    "__version__": "1.3.7"
+  },
+  "builder-options": {
+    "configID": "edd10f",
+    "services": [],
+    "__version__": "3.0.7"
+  }
+}
